@@ -27,6 +27,7 @@ This is final module 4 Panda repository
 - The images of report according to the grade levels with and without replacing the 9th grader values is given below.
 - 
 ![Grade_Report](https://user-images.githubusercontent.com/92752935/143724770-124c6501-41ce-4a13-a1fe-eabdc543a768.png)
+       Original Grade Report
 
 ![Grade_Level_Challenge](https://user-images.githubusercontent.com/92752935/143724782-2e509b49-1c74-4db2-8849-90e2df38e73f.png)
 
